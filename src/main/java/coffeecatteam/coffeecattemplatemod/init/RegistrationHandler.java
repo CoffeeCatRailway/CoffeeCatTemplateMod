@@ -16,6 +16,7 @@ import java.util.Set;
 
 /**
  * Author: CoffeeCatRailway
+ * Credit: MrCrayfish
  */
 public class RegistrationHandler {
 
