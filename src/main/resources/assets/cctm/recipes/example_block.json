@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "cctm:example_block",
+    "data": 0
+  },
+  "pattern": [
+    "eee",
+    "e e",
+    "eee"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "e": {
+      "item": "cctm:example_item",
+      "data": 0
+    }
+  }
+}

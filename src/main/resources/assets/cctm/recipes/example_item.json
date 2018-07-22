@@ -1,0 +1,16 @@
+{
+  "result": {
+    "item": "cctm:example_item"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "data": 0
+    }
+  ]
+}

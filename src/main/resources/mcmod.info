@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
+  "modid": "cctm",
+  "name": "CoffeeCat Template Mod",
+  "description": "Template for modders.",
+  "version": "0.1",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["CoffeeCatTeam"],
+  "credits": "The Forge and FML guys, for making Forge",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
